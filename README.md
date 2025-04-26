@@ -1,4 +1,4 @@
-# Hi there, I'm Arun Katika 👋
+# Hi there, I'm Arun Kumar Reddy Katika 👋
 
 🔹 **Full Stack Developer | AI-ML Engineer | Problem Solver**  
 🔹 Passionate about building scalable data solutions, AI-driven applications, and innovative software.
@@ -15,7 +15,7 @@
 ---
 
 ## 📈 LeetCode Profile
-- 🧮 [View My LeetCode Profile Here](https://leetcode.com/arunkatika)
+- 🧮 [View My LeetCode Profile Here](https://leetcode.com/u/arunkatikaa/)
 
 ---
 
